@@ -1,1 +1,2 @@
 Exploring branching concept.
+Learning cherry-pick command.
